@@ -1,3 +1,13 @@
-# Contemporary Issues In Data
+# Interpretations of COVID Related Death Data From the Vaccine Adverse Events Reporting System 
 
-Welcome! Your writing assignment will be in this file.  See [the instructions](./instructions.md) for more details.
+In this document, I explore two articles that discuss the Vaccine Adverse Events Reporting System (VAERS) and claims that they underreport data. I also invegastigate the differing interpretations of the data as a result. Both opposing views on the issue are presented.
+
+## Article 1
+In Fox News' opinion piece [How many Americans have died after taking the COVID vaccine?](https://www.foxnews.com/opinion/tucker-carlson-how-many-americans-have-died-after-taking-the-covid-vaccine), political commentator Tucker Carlson declares that 3,362 Americans died after recieving COVID vaccines in an attempt to sway the audience to not get the vaccine. He also critiqes that the VARES undercounts vaccine injuries. He stresses that even with the undercount, the numbers being reported are very unsual and do not resemble anything that's happened with previous vaccines. He brings up the Menveo vaccine, as a vaccine that was widely distributed to many people, but had only one death in association with it. 
+
+I believe that this opinion widely misrepresents the data and is a grossly misinterpretation of the numbers. The numbers that are reported are deaths that occur after the vaccination, but are unkown if the death can be attributed to the vaccination. In terms of the undercount of vaccine injuries, the information came from a report in 2010. Back then, the process of maintaining the database and collecting the data could have been new and underdeveloped. By now, we might have the technology and means to more accurately be able to report the correct numbers. 
+
+## Article 2
+In opposition to Carlson's views, Science wrote a piece [Antivaccine activists use a government database on side effects to scare the public](https://www.science.org/content/article/antivaccine-activists-use-government-database-side-effects-scare-public) to refute his claims. They assert that deaths reported to VARES indicate nothing about what caused it. They also say that the CDC conducted follow-up investigations that resulted in findings that none of the deaths were caused by the vaccines except for blood clotting associated with one case. Real researchers use VARES to keep up with real vaccine side effects. Antivaccine activitsts, due to remarks pushed by Carlson, are now using it to search for data to scare the public. 
+
+I think that it is unfortunate that such a database has become a tool for misinformation due to false interpretations of the data. This, however, highlights that data in general can be used as an instrument to push a personal agenda, no matter what side of the political spectrum you're on. Government databases such as VARES, although providing free and public information to the world, can also be used by any type of person.  
